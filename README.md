@@ -1,1 +1,2 @@
-TinDog Starting Files
+Tindog App landing page
+practicing Bootstrap
